@@ -6,7 +6,7 @@ namespace week1_helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Wordfdfld!");
         }
     }
 }
